@@ -1,0 +1,24 @@
+{
+  "name": "butters-frontend",
+  "version": "1.0.0",
+  "description": "Butters front-end library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junior832/butters-frontend.git"
+  },
+  "author": "junior832",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junior832/butters-frontend/issues"
+  },
+  "homepage": "https://github.com/junior832/butters-frontend#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
