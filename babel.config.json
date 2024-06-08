@@ -1,0 +1,4 @@
+// This file only exist due to not setting the presets/plugins within the webpack.config.js or package.json
+{
+    "presets": ["@babel/preset-react"]
+}
