@@ -1,4 +1,5 @@
 // This file only exist due to not setting the presets/plugins within the webpack.config.js or package.json
+// Added @babel/reset-env not sure if we need it but leaving it
 {
-    "presets": ["@babel/preset-react"]
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
