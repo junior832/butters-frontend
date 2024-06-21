@@ -3,7 +3,8 @@ import Test from './components/test';
 
 const App = () => {
   return (
-    <div>App
+    <div>
+      App
         <Test />
     </div>
   )
