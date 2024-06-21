@@ -4,7 +4,7 @@ import Test from './components/test.js';
 const App = () => {
   return (
     <div>
-       App
+      App
       <Test />
     </div>
   );
